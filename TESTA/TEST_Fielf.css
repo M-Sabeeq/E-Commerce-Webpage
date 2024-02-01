@@ -12,10 +12,9 @@ body{
 #MiniNav{
   display: flex;
   justify-content: space-between;
-  text-align: right;
-  padding: 5px;
   padding: 3px, 2px, 3px, 2px;
 }
+
 #MiniNav{
   list-style: none;
   
