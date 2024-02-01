@@ -9,7 +9,17 @@ body{
   background-color: #a8a7a4;
 
 }
-
+#MiniNav{
+  display: flex;
+  justify-content: space-between;
+  text-align: right;
+  padding: 5px;
+  padding: 3px, 2px, 3px, 2px;
+}
+#MiniNav{
+  list-style: none;
+  
+}
 nav {
   background-color:#00000088; 
   text-align: right;     
